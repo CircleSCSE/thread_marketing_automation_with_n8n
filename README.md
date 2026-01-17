@@ -12,25 +12,28 @@
     - 오라클 서버 설정하고 도커 깔고 n8n 올리는 데 쓴 시간. 영어 사이트라 성가셨지만 끝내 해결함.
     - n8n의 게시물 최초 변주 프롬프트 4개 ( 직접 구축한 가상 철학 이론 기반 )
     
-    (./n8n.png)
+    <img width="834" height="644" alt="n8n" src="https://github.com/user-attachments/assets/0ee06c8c-4afe-46a3-a4ff-9be80eafe41c" />
+
     
 - **계속해서 프롬프트 다분화, 고도화** : 총 6시간 10분 ( 370분 )
     
-    (./process.png)
+    <img width="935" height="364" alt="process" src="https://github.com/user-attachments/assets/79b8bc17-13cc-4d54-a14c-61162567e73d" />
+
     
 - **실제 성과** :
     - 한 달 내내 수동으로 뿌려서 얻은 포스타입 조회수가 7이었는데, **자동으로 돌리니 조회수 23번로 상승, 바로 1건 결제 발생.** ( 가능성이 0%가 아니라는 것을 확인한 게 가장 큰 수확. )
     - 2026-01-17 현황
     
-    (./insight.png)
+    <img width="733" height="617" alt="insight_2026_01_17" src="https://github.com/user-attachments/assets/8302f74d-54c2-4c49-b24b-d85ccc25807e" />
+
     
 - **운영 방식** :
     - 노트북 덮어도 돌아가게 만듦. AI 에이전트 7마리가 서로 다른 말투로 글을 쓰게 세팅. 글 쓰는 것은 Switch 노드와 JS코드로 7개 중 하나 랜덤 선택
     
-    (./prompts.png)
-    
-    (./prompt1 .png)
-    
+    <img width="551" height="718" alt="prompts" src="https://github.com/user-attachments/assets/1d385948-d92f-46c8-ad06-1801fc6e9a8d" />
+
+    <img width="651" height="286" alt="prompt1" src="https://github.com/user-attachments/assets/9c67be06-974a-448f-bf0e-d3e1691aa7a9" />
+
 
 ---
 
@@ -54,7 +57,8 @@ AI가 너무 로봇처럼 말하면 사람들이 바로 눈치챕니다. 그래�
 
 - 너무 적나라한 표현은 순화하도록 프롬프트를 고쳤고, 절대로 이상한 출력은 못하도록 규제 프롬프트를 넣었습니다.
 
-(./prompt2.png)
+<img width="631" height="205" alt="prompt2" src="https://github.com/user-attachments/assets/099ea738-31b3-4686-9964-ee9b956a70b8" />
+
 
 ---
 
@@ -64,7 +68,8 @@ AI가 너무 로봇처럼 말하면 사람들이 바로 눈치챕니다. 그래�
 
 - **문제:** 포스타입으로 유입되는 사람이 줄었습니다. 이때부터 슬금슬금 노출 제제가 걸린 듯 합니다.
 
-(./postype_difficulty.png)
+<img width="686" height="204" alt="postype_difficulty" src="https://github.com/user-attachments/assets/db5490ac-ff2c-426b-a85e-777023a255b1" />
+
 
 **2025-12-26: 업로드 중단 및 분석**
 
