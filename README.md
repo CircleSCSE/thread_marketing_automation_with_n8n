@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1d385948-d92f-46c8-ad06-1801fc6e9a8d" width="400" alt="프롬프트 다변화 구조">
+<img src="https://github.com/user-attachments/assets/3a12fe8f-6235-40c3-a26d-1a91ef1b8fa5" width="400" alt="프롬프트 다변화 구조">
 
 <p><em>[그림 4] 7가지 페르소나 분기 처리 로직</em></p>
 
