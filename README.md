@@ -56,7 +56,15 @@
 
 <img src="https://github.com/user-attachments/assets/8302f74d-54c2-4c49-b24b-d85ccc25807e" width="600" alt="2026년 1월 17일 현황">
 
-<p><em>[그림 3] 프로젝트 최신 성과 대시보드</em></p>
+<p><em>[그림 3-1] 프로젝트 최신 성과 대시보드</em></p>
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/d9302296-fc50-457d-a545-4d10cc5b776c" width="400" alt="2026년 2월 24일 현황">
+
+<p><em>[그림 3-2] 최신 판매성과</em></p>
 
 </div>
 
